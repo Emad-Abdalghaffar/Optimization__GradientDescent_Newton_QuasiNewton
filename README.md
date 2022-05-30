@@ -5,7 +5,7 @@
 #### Problem (1)
 ####          Gradient Descent optimization of the cost function (MSE) in Linear Regression problems
 <br>
-Provided is the implementation of the gradient descent algorithm different variants:
+Provided are the codes of the gradient descent variant optimizers:
 
 - Batch/Vanilla GD  (Single Variable Function)<br>
 
@@ -30,7 +30,7 @@ Provided is the implementation of the gradient descent algorithm different varia
 ####         Newton's & Quasi-Newton (BFGS) Optimization Algorithms
 ####         (For Single and Multivariant Quadratic Functions)
 <br>
-Provided is the implementation of the following algorithms:
+Provided are the codes of the Newton's and Quasi-Newton optimizers:
 
 - Secant and Newton Root-Finding Algorithms<br>
 

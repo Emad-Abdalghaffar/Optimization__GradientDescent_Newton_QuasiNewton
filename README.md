@@ -1,8 +1,8 @@
-## Author: Emad Abdalghaffar
-## 2022 - Information Technology Institute (ITI)
+#### Author: Emad Abdalghaffar
+#### 2022 - Information Technology Institute (ITI)
 <br>
 
-### Problem (1)
+#### Problem (1)
 ####          Gradient Descent optimization of the cost function (MSE) in Linear Regression problems
 <br>
 Provided is the implementation of the gradient descent algorithm different variants:
@@ -26,7 +26,7 @@ Provided is the implementation of the gradient descent algorithm different varia
 
 
 
-### Problem (2)
+#### Problem (2)
 ####         Newton's & Quasi-Newton (BFGS) Optimization Algorithms
 ####         (For Single and Multivariant Quadratic Functions)
 <br>

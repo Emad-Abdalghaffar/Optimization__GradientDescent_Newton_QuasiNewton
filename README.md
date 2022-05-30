@@ -5,7 +5,7 @@
 ### Problem (1)
 ####          Gradient Descent optimization of the cost function (MSE) in Linear Regression problems
 <br>
-Provided are the different variants of the gradient descent algorithm:
+Provided is the implementation of the gradient descent algorithm different variants:
 
 - Batch/Vanilla GD  (Single Variable Function)<br>
 

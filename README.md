@@ -3,9 +3,9 @@
 <br>
 
 #### Problem (1)
-####          Gradient Descent optimization of the cost function (MSE) in Linear Regression problems
+####          Gradient Descent optimizer in Linear Regression problems
 <br>
-Provided are the codes of the gradient descent variant optimizers:
+Provided are codes of the gradient descent variant optimizers:
 
 - Batch/Vanilla GD  (Single Variable Function)<br>
 
@@ -30,7 +30,7 @@ Provided are the codes of the gradient descent variant optimizers:
 ####         Newton's & Quasi-Newton (BFGS) Optimization Algorithms
 ####         (For Single and Multivariant Quadratic Functions)
 <br>
-Provided are the codes of the Newton's and Quasi-Newton optimizers:
+Provided are codes of the Newton's and Quasi-Newton optimizers:
 
 - Secant and Newton Root-Finding Algorithms<br>
 
@@ -39,3 +39,17 @@ Provided are the codes of the Newton's and Quasi-Newton optimizers:
 - Gradient Descent and Newton Optimization Algorithms    (Quadratic Multivariant functions)<br>
 
 - Quasi Newton (BFGS) Optimization Algorithm    (Quadratic Multivariant functions)<br>
+
+
+
+
+#### Problem (3)
+####         Comparing different optimizers in a Linear Regression problem
+<br>
+Provided are codes with the following optimizers:
+
+- GD optimizer (MSE loss function)<br>
+
+- Quasi Newton (BFGS) optimizer (MSE loss function)<br>
+
+- Ordinary Least Square optimizer by sklearn (RMSE loss function)<br>

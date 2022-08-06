@@ -1,6 +1,6 @@
 #### Author: Emad Abdalghaffar
 #### 2022 _ Information Technology Institute (ITI) _ AI and Machine Learning program
-<br>
+<br><br>
 
 #### Problem (1)
 ####          Gradient Descent optimizer in Linear Regression problems
@@ -38,7 +38,7 @@ Provided are codes of the Newton's and Quasi-Newton optimizers:
 
 - Gradient Descent and Newton Optimization Algorithms    (Quadratic Multivariant functions)<br>
 
-- Quasi Newton (BFGS) Optimization Algorithm    (Quadratic Multivariant functions)<br>
+- Quasi Newton (BFGS) Optimization Algorithm    (Quadratic Multivariant functions)<br><br>
 
 
 
